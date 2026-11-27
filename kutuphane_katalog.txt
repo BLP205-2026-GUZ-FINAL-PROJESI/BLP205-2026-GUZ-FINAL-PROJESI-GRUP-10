@@ -1,0 +1,6 @@
+105|Veri Yapilari ve Algoritmalar|Ahmet Yilmaz|420
+102|C++ Programlama Sanati|Mehmet Demir|560
+108|Isletim Sistemleri|Ayse Kaya|310
+101|Algoritma Analizi|Can Ozturk|245
+104|Veritabani Yonetimi|Zeynep Ak|380
+103|Bilgisayar Aglari|Emre Sahin|490

@@ -1,0 +1,3 @@
+201|C++ Temelleri|Veli Can|220
+202|Sistem Programlama|Ali Kaya|350
+204|Yapay Zeka Giris|Ayse Nur|510
